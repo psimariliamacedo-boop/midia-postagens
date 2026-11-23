@@ -175,7 +175,8 @@ for fi in range(NB):
         fr=fr.copy(); last=fr.copy()
     t=fi/FPS
     if STYLE=="basic":
-        tb=layer("title",lambda:title_box(CFG["title"])); paste(fr,tb,(W-tb.width)//2,250-tb.height//2)
+        if t<CFG["hook_end"]:
+            tb=layer("title",lambda:title_box(CFG["title"])); paste(fr,tb,(W-tb.width)//2,1100-tb.height//2)
         bi=None
         for k,(a,b,h) in enumerate(BLOCKS):
             st=words[a][1]; en=words[b][1] if b<len(words) else TEND
@@ -187,7 +188,6 @@ for fi in range(NB):
     else:
         fr=(fr.astype(np.float32)*(1-40/255.)).astype(np.float32)
         fr=(fr*(1-grad)).astype(np.uint8)
-        L,pd=layer("lab",lambda:label_top(CFG["label"])); paste(fr,L,(W-L.width)//2,250-L.height//2)
         if t<CFG["hook_end"]:
             g,gp=layer("gancho",lambda:shadowed(rounded_box(CFG["hook"],F(DMB,84),(255,255,255,255),NAVY+(255,)),14,120,(0,6)))
             paste(fr,g,(W-g.width)//2,880-gp)
