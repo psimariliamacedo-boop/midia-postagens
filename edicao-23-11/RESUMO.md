@@ -55,3 +55,12 @@ O "aqui em Cosmópolis" foi cortado porque **ela não gostou de "Cosmópolis" re
 2. Transcrever tudo e mapear as falas por roteiro (incluindo as improvisadas).
 3. Mandar a lista de vídeos possíveis, depois uma prévia, aprovação e o restante.
 4. Opcional: versões extras do anúncio (local para Cosmópolis com IMG_7891; curta com IMG_7896).
+
+## Sessão "edição 23.11" (noite de 23/11) · decisões novas
+- **Só a versão básica** daqui para frente (ela não quer a dinâmica).
+- **Nada de texto em cima do rosto.** Nada de faixa no alto da tela: nestes vídeos ela está perto da câmera e a faixa caía na testa. O título aparece só nos primeiros 3 s, na altura do peito (y≈1100), logo acima da legenda (y≈1270).
+- **Conferir se as falas fazem sentido juntas antes de montar.** "Você senta no sofá e responde mensagem" e "Não é que você não descansa" foram cortadas, porque sozinhas não dão para entender.
+- Aprovado: "Você descansa de verdade?" (IMG_7986 + 7995 + 7996, 13 s).
+- Brutos: os vídeos de hoje estão na pasta Downloads do Drive (sincronizada com o notebook). O conector só baixa até 10 MB; os maiores ela mandou pelo chat. Faltaram 7880, 7882, 7888, 7984, 8019, 8025, 8027, 8042, 8066, 8067, 8069, 8071, 8079, 8080, 8082, 8083 e 8102.
+- "Mais ou menos" está pendente: a fala do IMG_8037 termina cortada ("quem nem tá bom o suficiente"); talvez o fim esteja no IMG_8042.
+- Scripts: `build_base.py` (cortes + cor + ganho), `render2.py` (legenda e cartão, lê um .json por vídeo) e `mk_configs.py` (gera os .json a partir das transcrições).
