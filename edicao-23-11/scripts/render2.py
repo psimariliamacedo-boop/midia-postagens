@@ -213,4 +213,4 @@ for fi in range(NB):
 card=make_card(last)
 if PREVIEW: Image.fromarray(card).save(f"{OUT}.card.jpg",quality=80)
 for _ in range(CARD): enc.stdin.write(card.tobytes())
-enc.stdin.close(); enc.wait(); dec.wait(); print("done",OUT, f"{NT/FPS:.1f}s")
+enc.stdin.close(); enc.wait(); dec.kill(); print("done",OUT, f"{NT/FPS:.1f}s")
