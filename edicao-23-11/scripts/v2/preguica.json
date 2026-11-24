@@ -1,0 +1,45 @@
+{
+ "title_dur": 3.0,
+ "item_dur": 2.5,
+ "end_dur": 2.6,
+ "cta_dur": 2.6,
+ "title": "Parece preguiça, mas pode ser sobrecarga",
+ "numbered": true,
+ "items": [
+  "Deitar no sofá e não conseguir levantar",
+  "Deixar a louça pra amanhã de novo",
+  "Ler a mensagem e não conseguir responder",
+  "Esquecer o que ia fazer no meio do caminho",
+  "Desmarcar o que você queria fazer",
+  "Dormir e acordar cansada"
+ ],
+ "end_line": "Nem sempre é falta de vontade. Pode ser cansaço demais.",
+ "cta": "Manda pra amiga que se chama de preguiçosa",
+ "shots": [
+  {
+   "src": "IMG_8083.MOV",
+   "ss": 0,
+   "dur": 9,
+   "speed": 0.6
+  },
+  {
+   "src": "IMG_7825.MOV",
+   "ss": 0,
+   "dur": 5,
+   "speed": 0.8
+  },
+  {
+   "src": "foto_41.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_8101.MOV",
+   "ss": 0,
+   "dur": 4
+  },
+  {
+   "src": "foto_42.jpg",
+   "dur": 3.5
+  }
+ ]
+}

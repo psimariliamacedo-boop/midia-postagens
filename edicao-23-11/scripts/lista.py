@@ -80,8 +80,7 @@ for i in range(NB):
     last = fr.copy(); tt = i / FPS
     for a, b, im in ev:
         if a <= tt < b:
-            al = min(1, (tt - a) / 0.25, (b - tt) / 0.2); paste(fr, im, (W - im.width) // 2, TY - im.height // 2, max(0, al))
-    hd = F("montserrat-latin-700-normal.ttf", 38); dd = ImageDraw.Draw(Image.new("RGB", (1, 1)))
+            al = min(1, (tt - a) / 0.25 if a > 0 else 1, (b - tt) / 0.2); paste(fr, im, (W - im.width) // 2, TY - im.height // 2, max(0, al))
     enc.stdin.write(fr.tobytes())
     if i % int(3 * FPS) == 15: Image.fromarray(fr).save(f"{OUT}.f{i}.jpg", quality=80)
 # cartão final

@@ -1,0 +1,45 @@
+{
+ "title_dur": 3.0,
+ "item_dur": 2.5,
+ "end_dur": 2.6,
+ "cta_dur": 2.6,
+ "title": "Seu domingo à noite é assim?",
+ "numbered": false,
+ "items": [
+  "Aperto no peito quando escurece",
+  "A lista do que não deu tempo de fazer",
+  "Culpa por ter descansado",
+  "Culpa por não ter descansado",
+  "A cabeça já na segunda-feira"
+ ],
+ "end_line": "Descanso não precisa ser merecido.",
+ "cta": "Manda pra amiga que sofre no domingo à noite",
+ "shots": [
+  {
+   "src": "IMG_8100.MOV",
+   "ss": 0,
+   "dur": 5,
+   "speed": 0.8
+  },
+  {
+   "src": "foto_41.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_7861.MOV",
+   "ss": 2,
+   "dur": 5,
+   "speed": 0.7
+  },
+  {
+   "src": "foto_17.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_7865.MOV",
+   "ss": 0,
+   "dur": 5.5,
+   "speed": 0.8
+  }
+ ]
+}

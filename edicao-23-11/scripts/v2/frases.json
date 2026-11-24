@@ -1,0 +1,44 @@
+{
+ "title_dur": 3.0,
+ "item_dur": 2.5,
+ "end_dur": 2.6,
+ "cta_dur": 2.6,
+ "title": "Que frase da sua infância ainda mora em você?",
+ "numbered": true,
+ "items": [
+  "\"Engole o choro\"",
+  "\"Não tem motivo pra ficar assim\"",
+  "\"Não faz mais que a obrigação\"",
+  "\"Para de drama\"",
+  "\"Primeiro a obrigação, depois a diversão\""
+ ],
+ "end_line": "Qual delas? Me conta o número nos comentários",
+ "cta": "Manda pra amiga que ainda escuta uma dessas",
+ "shots": [
+  {
+   "src": "IMG_8083.MOV",
+   "ss": 7,
+   "dur": 6,
+   "speed": 0.6
+  },
+  {
+   "src": "foto_8.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_7859.MOV",
+   "ss": 0.2,
+   "dur": 6,
+   "speed": 0.7
+  },
+  {
+   "src": "foto_43.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_8101.MOV",
+   "ss": 5,
+   "dur": 3.5
+  }
+ ]
+}

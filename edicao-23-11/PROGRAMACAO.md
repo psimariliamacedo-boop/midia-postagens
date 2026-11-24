@@ -1,4 +1,4 @@
-> Atualizado em 24/11: a versão oficial agora é a planilha **Calendário de postagens · Instagram** no Drive (pasta *Postagens Instagram · 24-11 a 01-12*), com capa, legenda, stories e música de cada dia.
+> Atualizado em 24/11 (revisão): a versão oficial é a planilha **Calendário de postagens · Instagram (24-11 a 06-12)** no Drive (pasta *Revisar antes de postar · 24-11 a 01-12*). 13 reels prontos, de 24/11 a 06/12. Mudanças: gancho grande desde o 1º quadro, pausas cortadas, CTA "Manda pra amiga que…", legendas só com PAUSA. Scripts: `render3.py`, `tighten.py`, configs em `scripts/v2/`, `capas2.py`, com capa, legenda, stories e música de cada dia.
 
 # Programação de reels · semana 24/11 a 30/11/2026
 

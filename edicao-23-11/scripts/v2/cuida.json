@@ -1,0 +1,48 @@
+{
+ "title_dur": 3.0,
+ "item_dur": 2.5,
+ "end_dur": 2.6,
+ "cta_dur": 2.6,
+ "title": "Quem cuida de você quando você cuida de todo mundo?",
+ "numbered": false,
+ "items": [
+  "Você lembra a consulta de todo mundo, menos a sua",
+  "Pergunta se todos comeram e almoça em pé",
+  "Resolve o problema dos outros às 23h",
+  "Diz \"tô bem\" no automático",
+  "Só para quando fica doente"
+ ],
+ "end_line": "Você também merece cuidado.",
+ "cta": "Manda pra amiga que cuida de todo mundo",
+ "shots": [
+  {
+   "src": "IMG_7856.MOV",
+   "ss": 0.3,
+   "dur": 4,
+   "speed": 0.7
+  },
+  {
+   "src": "foto_1.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_7825.MOV",
+   "ss": 2,
+   "dur": 5,
+   "speed": 0.7
+  },
+  {
+   "src": "foto_13.jpg",
+   "dur": 3
+  },
+  {
+   "src": "foto_42.jpg",
+   "dur": 3
+  },
+  {
+   "src": "IMG_8081.MOV",
+   "ss": 0.3,
+   "dur": 3.2
+  }
+ ]
+}
