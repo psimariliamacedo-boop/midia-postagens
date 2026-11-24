@@ -22,18 +22,22 @@
    "speed": 0.6
   },
   {
-   "src": "foto_8.jpg",
-   "dur": 3
+   "src": "IMG_7861.MOV",
+   "ss": 1,
+   "dur": 3.5,
+   "speed": 0.8
   },
   {
-   "src": "IMG_7859.MOV",
-   "ss": 0.2,
-   "dur": 6,
-   "speed": 0.7
+   "src": "IMG_7825.MOV",
+   "ss": 0,
+   "dur": 5.5,
+   "speed": 0.8
   },
   {
-   "src": "foto_43.jpg",
-   "dur": 3
+   "src": "IMG_7856.MOV",
+   "ss": 0.3,
+   "dur": 3,
+   "speed": 0.8
   },
   {
    "src": "IMG_8101.MOV",

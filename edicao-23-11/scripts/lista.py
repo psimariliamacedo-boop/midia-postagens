@@ -68,8 +68,14 @@ frames = []
 def bg():
     for s in CFG["shots"]:
         n = int(s["dur"] * FPS)
-        g = photo(f"{FOT}/{s['src']}", n, s.get("z0", 1.0), s.get("z1", 1.06)) if s["src"].endswith(".jpg") else video(s["src"], s.get("ss", 0), n, s.get("speed", 1.0))
-        for fr in g: yield fr
+        if s["src"].endswith(".jpg"):
+            for fr in photo(f"{FOT}/{s['src']}", n, s.get("z0", 1.0), s.get("z1", 1.14)): yield fr
+        else:
+            z0, z1 = s.get("z0", 1.0), s.get("z1", 1.10)  # zoom lento: cena parada não fica congelada
+            for k, fr in enumerate(video(s["src"], s.get("ss", 0), n, s.get("speed", 1.0))):
+                z = z0 + (z1 - z0) * k / max(1, n - 1)
+                M = np.float32([[z, 0, W / 2 * (1 - z)], [0, z, H / 2 * (1 - z)]])
+                yield cv2.warpAffine(fr, M, (W, H), flags=cv2.INTER_LINEAR, borderMode=cv2.BORDER_REFLECT)
 enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                         "-f", "lavfi", "-t", f"{(NB + CARD) / FPS:.3f}", "-i", "anullsrc=r=48000:cl=stereo", "-map", "0:v", "-map", "1:a",
                         "-t", f"{(NB + CARD) / FPS:.3f}", "-c:v", "libx264", "-crf", "18", "-pix_fmt", "yuv420p", "-c:a", "aac", "-movflags", "+faststart", OUT], stdin=subprocess.PIPE)
