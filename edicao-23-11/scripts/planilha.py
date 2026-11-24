@@ -5,10 +5,10 @@ from openpyxl.worksheet.datavalidation import DataValidation
 OUT = sys.argv[1]
 P = "Fiz um checklist gratuito pra você perceber quando está precisando de uma pausa. Manda PAUSA no meu direct que eu te envio."
 R = "Marília Macêdo · Psicóloga e Neuropsicóloga · CRP 06/229488"
-CAPA = {"24": "18uLs0lE1_SPG0gtTiEKgySie26HXsQRK", "25": "1U02R1Tl_uGFv-gLOLSH6meUisK2oZyKG", "26": "17mr5q7PhCX3kkvEv8Q6NC8qtrmqg5hGJ",
-        "27": "1wczOzvC68NYrZ6Bl-PpOPKxyWtJoQzXv", "28": "1pqg0b9VVlN5wImjQvL45MQceb2SMRXZH", "29": "14AiVhMHQKDz1Qx2Ei4l-KWUSu-zJI6cU",
-        "30": "1PMyxU8TAetbwI-rxIW1ke9r8R7PerRLD", "01": "1tof2D1WJtHMatRHEds5pA8REblM7ozVt",
-        "02": "1UVlQ0qCTATT9x7MH8-GV4_0YNBnC_l1M", "03": "13707-ISiVr3FzRVvJp5v1h32JKpbqKwr", "04": "1qXbriPqQiHbh1bpEvaIDESYD0K1DgNb9",
+CAPA = {"24": "18uLs0lE1_SPG0gtTiEKgySie26HXsQRK", "25": "1fCoAHe1jsZREjXfdy2YWSJcOoIMDSnPx", "26": "1iBfci9UL_1j7wQtkEGK5nRRxdr4XhzGr",
+        "27": "180_BBwVr-BC4dn_CtwyjFFg3Uyz_ZzoK", "28": "1pqg0b9VVlN5wImjQvL45MQceb2SMRXZH", "29": "1El5cRUfB057XSoXYE4aDP7gNvRRLCHL7",
+        "30": "14mgso5lkgPgPZOgI3ANLrK_wjq4DY6OW", "01": "1HimF6o--KSqFvoic7CFazoO8Gz87luzQ",
+        "02": "1c8lkZTjTepU2Gg4Di-eRlSMtKa77qNDX", "03": "13707-ISiVr3FzRVvJp5v1h32JKpbqKwr", "04": "1ww1gOxlNdXeqy3yBobWA-ouvZeBcUkUN",
         "05": "1enkkzXEPJG1LgufrekhTjWHYNKjH0RD1", "06": "1XF88wl5uXuMASXVY6SOxeU1mXmltcEI_"}
 def link(k, txt): return f'=HYPERLINK("https://drive.google.com/file/d/{CAPA[k]}/view","{txt}")'
 MUS_FALA = "Instrumental calmo em alta, volume baixo (10 a 15%), por baixo da sua voz"

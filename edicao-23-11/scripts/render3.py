@@ -185,7 +185,7 @@ for fi in range(NB):
     t=fi/FPS
     if STYLE=="basic":
         if t<CFG["hook_end"]:
-            tb=layer("title",lambda:title_box(CFG["title"])); paste(fr,tb,(W-tb.width)//2,CFG.get("cap_y",1270)-70-tb.height+42)
+            tb=layer("title",lambda:title_box(CFG["title"])); paste(fr,tb,(W-tb.width)//2,(CFG.get("cap_y",1270)+60) if CFG.get("title_below") else (CFG.get("cap_y",1270)-70-tb.height+42))
         bi=None
         for k,(a,b,h) in enumerate(BLOCKS):
             st=words[a][1]; en=words[b][1] if b<len(words) else TEND
