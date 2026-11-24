@@ -176,15 +176,15 @@ for fi in range(NB):
     t=fi/FPS
     if STYLE=="basic":
         if t<CFG["hook_end"]:
-            tb=layer("title",lambda:title_box(CFG["title"])); paste(fr,tb,(W-tb.width)//2,1100-tb.height//2)
+            tb=layer("title",lambda:title_box(CFG["title"])); paste(fr,tb,(W-tb.width)//2,CFG.get("title_y",1100)-tb.height//2)
         bi=None
         for k,(a,b,h) in enumerate(BLOCKS):
             st=words[a][1]; en=words[b][1] if b<len(words) else TEND
             if st-0.05<=t<en: bi=k
         if bi is not None:
-            c=layer(("cb",bi),lambda:cap_basic(bi)); paste(fr,c,(W-c.width)//2,1270-c.height//2)
+            c=layer(("cb",bi),lambda:cap_basic(bi)); paste(fr,c,(W-c.width)//2,CFG.get("cap_y",1270)-c.height//2)
         if t>=CTA_T:
-            p=layer("cta",lambda:pink_box(CFG["cta"],40)); paste(fr,p,(W-p.width)//2,1440)
+            p=layer("cta",lambda:pink_box(CFG["cta"],40)); paste(fr,p,(W-p.width)//2,CFG.get("cta_y",1440))
     else:
         fr=(fr.astype(np.float32)*(1-40/255.)).astype(np.float32)
         fr=(fr*(1-grad)).astype(np.uint8)
