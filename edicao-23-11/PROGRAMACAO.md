@@ -1,3 +1,5 @@
+> Atualizado em 24/11: a versão oficial agora é a planilha **Calendário de postagens · Instagram** no Drive (pasta *Postagens Instagram · 24-11 a 01-12*), com capa, legenda, stories e música de cada dia.
+
 # Programação de reels · semana 24/11 a 30/11/2026
 
 Regra: 1 reel de teste (Trial) por dia, só para quem não segue. Depois de 72 h, o que passar da média em visualizações e envios vai para os seguidores. Primeiro balanço: 04/12.
