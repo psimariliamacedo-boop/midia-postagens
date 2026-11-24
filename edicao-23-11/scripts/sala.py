@@ -29,6 +29,11 @@ SHOTS = [
     ("f", "foto_8.jpg", 0, 2.5, "Atendimento infantil e adulto", 1.06, 1.0),
     ("f", "foto_2.jpg", 0, 3.0, "Rua Santa Gertrudes, 1230", 1.0, 1.05),
 ]
+import os
+END = {"sorriso": ("v", "IMG_8081.MOV", 0.3, 3.0, "Rua Santa Gertrudes, 1230", 1.0, 1.0),
+       "cafe": ("f", "foto_1.jpg", 0, 3.0, "Rua Santa Gertrudes, 1230", 1.0, 1.05),
+       "sala": ("f", "foto_17.jpg", 0, 3.0, "Rua Santa Gertrudes, 1230", 1.06, 1.0)}
+if os.environ.get("FINAL") in END: SHOTS[-1] = END[os.environ["FINAL"]]
 CARD = int(2.0 * FPS)
 def caption(txt):
     f = F(DMB, 50); b = f.getbbox(txt); w = b[2] - b[0]; h = b[3] - b[1]; px, py = 40, 26
