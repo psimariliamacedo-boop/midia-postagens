@@ -27,7 +27,7 @@ SHOTS = [
     ("v", "IMG_7856.MOV", 0.3, 2.7, "Um cafezinho te esperando", 1.0, 1.0),
     ("f", "foto_13.jpg", 0, 2.0, None, 1.0, 1.06),
     ("f", "foto_8.jpg", 0, 2.5, "Atendimento infantil e adulto", 1.06, 1.0),
-    ("f", "foto_2.jpg", 0, 3.0, "Rua Santa Gertrudes, 1230", 1.0, 1.05),
+    ("v", "IMG_8081.MOV", 0.3, 3.0, "Rua Santa Gertrudes, 1230", 1.0, 1.0),
 ]
 import os
 END = {"sorriso": ("v", "IMG_8081.MOV", 0.3, 3.0, "Rua Santa Gertrudes, 1230", 1.0, 1.0),
