@@ -1,0 +1,47 @@
+{
+"title": "Ninguém viu essa sala assim…",
+"title_dur": 3.0,
+"item_dur": 2.6,
+"end_dur": 2.8,
+"cta_dur": 2.6,
+"numbered": false,
+"items": [
+"nem os dias em que deu vontade de desistir.",
+"Comecei do jeito que dava.",
+"Acreditei, mesmo sem ver pronto.",
+"Cada coisa no seu tempo."
+],
+"end_line": "Hoje ela está pronta pra te receber.",
+"cta": "Manda pra amiga que está recomeçando",
+"shots": [
+{
+"src": "IMG_6231.MOV",
+"ss": 0,
+"dur": 8.6,
+"speed": 0.72
+},
+{
+"src": "IMG_7861.MOV",
+"ss": 0.5,
+"dur": 5
+},
+{
+"src": "foto_42.jpg",
+"dur": 2.6
+},
+{
+"src": "IMG_7856.MOV",
+"ss": 0.3,
+"dur": 2.4
+},
+{
+"src": "foto_17.jpg",
+"dur": 2.2
+},
+{
+"src": "IMG_8081.MOV",
+"ss": 0.3,
+"dur": 3.2
+}
+]
+}
