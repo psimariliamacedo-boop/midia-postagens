@@ -1,0 +1,27 @@
+{
+"title": "Quantas dessas você disse essa semana?",
+"title_dur": 3.0,
+"item_dur": 2.5,
+"end_dur": 2.6,
+"cta_dur": 2.6,
+"numbered": true,
+"items": [
+"Já já eu descanso",
+"Deixa que eu faço",
+"Tô bem, só cansada",
+"Não foi nada",
+"Depois eu vejo isso",
+"Ninguém faz direito, então faço eu",
+"No fim de semana eu paro"
+],
+"end_line": "Quantas? Me conta nos comentários",
+"cta": "Manda pra amiga que diz todas",
+"shots": [
+{
+"src": "IMG_8083.MOV",
+"ss": 0,
+"dur": 25.7,
+"speed": 0.58
+}
+]
+}

@@ -1,0 +1,54 @@
+{
+"title": "Nessa sala você não precisa…",
+"title_dur": 3.0,
+"item_dur": 2.5,
+"end_dur": 0,
+"cta_dur": 2.6,
+"numbered": false,
+"items": [
+"saber por onde começar",
+"segurar o choro",
+"pedir desculpa por sentir",
+"estar bem pra chegar",
+"ter um motivo grande o suficiente",
+"dar conta de tudo",
+"ser forte. Aqui você pode só ser você."
+],
+"cta": "Manda pra amiga que precisa de um lugar assim",
+"shots": [
+{
+"src": "IMG_7861.MOV",
+"ss": 0.5,
+"dur": 6
+},
+{
+"src": "foto_42.jpg",
+"dur": 3
+},
+{
+"src": "foto_43.jpg",
+"dur": 3,
+"z0": 1.06,
+"z1": 1.0
+},
+{
+"src": "foto_41.jpg",
+"dur": 3
+},
+{
+"src": "foto_16.jpg",
+"dur": 3,
+"z0": 1.06,
+"z1": 1.0
+},
+{
+"src": "foto_17.jpg",
+"dur": 3
+},
+{
+"src": "IMG_8081.MOV",
+"ss": 0.3,
+"dur": 3
+}
+]
+}
