@@ -51,10 +51,17 @@ gratis, gratuito, gratuita, sus, curso, faculdade, vaga, emprego, salario, estag
 Remover só com ok da Marília.
 
 ## Pendências (antes de ativar)
-1. **Rastreamento do WhatsApp quebrado**: conversão "Clique no WhatsApp" (id 7652851845) tem tags conflitantes (AW-18214841341 no gtag, AW-18048200069 no evento). Deixar UMA tag do Google Ads no site + evento no clique do botão WhatsApp. Falta saber a plataforma do site.
-2. Conferir no site: botão WhatsApp visível/fixo no celular com (19) 99784-7824 (número antigo 98180-9621 não pode aparecer).
-3. Site bloqueado na rede da sessão em nuvem: liberar mariliamacedopsi.com.br ou pedir prints.
-4. Anúncio do Grupo 2 estava "em análise" no Google em 25/11.
+1. Rastreamento: **correto no site** (revisado 25/11) — conversões "Clique no WhatsApp (1)" e "Formulário de avaliação". Remover a conversão antiga "Clique no WhatsApp" (7652851845), com ok da Marília. Detalhes: skill `site-marilia`.
+2. Site: adicionar botão de WhatsApp fixo (proposto, aguardando ok). Hospedagem Netlify.
+3. Anúncio do Grupo 2 estava "em análise" no Google em 25/11.
+4. Ativar a campanha só com ordem da Marília (Dia 0).
+
+## Registro de alterações na conta
+| Data | Alteração | Aprovado por |
+|---|---|---|
+| 25/11/2026 | Campanha 24543862494 criada, pausada, R$ 15/dia | Marília (link Supermetrics) |
+| 25/11/2026 | Orçamento → R$ 7,50/dia | Marília |
+| 25/11/2026 | Unificação (Terapia + Avaliação), R$ 4,93/dia = R$ 150/mês, 35 negativas, "Formação em Neuropsicologia", "Horários à Noite" | Marília |
 
 ## Plano de teste e métricas
 - Duração: 45–60 dias após ativar (verba baixa = aprendizado lento).
