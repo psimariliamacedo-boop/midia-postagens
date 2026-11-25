@@ -76,3 +76,9 @@ Remover só com ok da Marília.
 - 09/12/2026 (Dia 14): revisar termos e negativas.
 - 28/12/2026 (Dia 30, Natal adiado): balanço do 1º mês.
 - 25/01/2027 (Dia 60): decidir continuar/ajustar/parar; avaliar página própria de Avaliação Neuropsicológica.
+
+## Ferramentas de leitura (decidido 25/11/2026)
+- **Metricool** (já pago, marca 7547062): Google Ads conectado em 25/11 (googleAdsData 9843545527). Fonte principal das métricas (evolution GAEV, campaigns GACA, keyworks GAKW). Não traz termos de pesquisa nem edita campanha.
+- **Windsor.ai**: Google Ads conectado em 25/11, só durante o mês de teste — Marília NÃO vai renovar.
+- **Supermetrics**: teste expirado; NÃO pagar. Usado só para ler configuração/fazer alterações aprovadas enquanto permitir.
+- Análise automática: toda segunda ~8h47 (tarefa agendada nesta sessão), de 30/11/2026 a 25/01/2027.
