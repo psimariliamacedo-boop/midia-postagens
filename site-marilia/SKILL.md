@@ -38,7 +38,7 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 - Correção registrada: em 24/11 foi dito que o rastreamento estava quebrado; em 25/11, lendo o site, confirmou-se que está correto.
 
 ## Alterações propostas (aguardando decisão da Marília)
-1. **Botão verde de WhatsApp fixo** no canto inferior da tela (celular e computador), com mensagem pronta e contando como conversão — prioridade alta (hoje não há WhatsApp na 1ª tela do celular).
+1. **FEITO 25/11 (aguardando publicação):** botão verde "Agendar pelo WhatsApp" fixo no canto inferior direito (mensagem "Olá, Marília! Vim pelo site e quero agendar."; conta como conversão). Arquivo: entregas/site/index.html. Antes era: (celular e computador), com mensagem pronta e contando como conversão — prioridade alta (hoje não há WhatsApp na 1ª tela do celular).
 2. **"Neuropsicóloga"** no topo e na descrição: risco com o CFP se não houver título de especialista registrado no CRP. Sugestão: "Psicóloga · Neuropsicologia". Ela não gosta de "Pós em Neuropsicologia". Decisão pendente.
 3. Card 2 sem mensagem pronta: opcional adicionar texto.
 
@@ -46,3 +46,7 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 | Data | Alteração | Aprovado por |
 |---|---|---|
 | 25/11/2026 | Revisão completa; nenhuma alteração publicada ainda | — |
+| 25/11/2026 | Botão fixo do WhatsApp adicionado ao index.html (testado em iPhone e desktop); publicação na Netlify feita pela Marília | Marília |
+
+## Ideia futura
+- Página própria de Avaliação Neuropsicológica (para o grupo de anúncios de avaliação). Avaliar após o Dia 30/60 da campanha.

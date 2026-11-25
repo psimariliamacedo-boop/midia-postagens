@@ -25,7 +25,7 @@ Dados de contato/CRP: ver skill `dados-profissionais-marilia`.
 - Google Analytics 4: não conectado.
 
 ## Campanha ÚNICA (usar esta)
-**[Search] Psicóloga e Avaliação - Cosmópolis e Região** — ID **24543862494** — status: **PAUSADA**
+**[Search] Psicóloga e Avaliação - Cosmópolis e Região** — ID **24543862494** — status: **ATIVA desde 25/11/2026 (Dia 0)**
 - Rede: só Pesquisa Google (sem parceiros, sem Display). IA Max e expansão de URL: desligadas.
 - Lances: Maximizar cliques, CPC máx. R$ 3,50.
 - Local: só quem ESTÁ em Cosmópolis (1031593), Paulínia (1001756), Artur Nogueira (1031456), Holambra (1031675). Idioma: português.
@@ -52,9 +52,9 @@ Remover só com ok da Marília.
 
 ## Pendências (antes de ativar)
 1. Rastreamento: **correto no site** (revisado 25/11) — conversões "Clique no WhatsApp (1)" e "Formulário de avaliação". Remover a conversão antiga "Clique no WhatsApp" (7652851845), com ok da Marília. Detalhes: skill `site-marilia`.
-2. Site: adicionar botão de WhatsApp fixo (proposto, aguardando ok). Hospedagem Netlify.
+2. Site: botão de WhatsApp fixo pronto em 25/11 (entregas/site/index.html); Marília publica na Netlify.
 3. Anúncio do Grupo 2 estava "em análise" no Google em 25/11.
-4. Ativar a campanha só com ordem da Marília (Dia 0).
+4. Campanha ativada em 25/11/2026 (ordem da Marília). Botão fixo do WhatsApp entregue (index.html) — confirmar publicação na Netlify.
 
 ## Registro de alterações na conta
 | Data | Alteração | Aprovado por |
@@ -69,3 +69,10 @@ Remover só com ok da Marília.
 - Expectativa (estimativa de mercado, não garantia): CTR 5–8%; clique→WhatsApp 5–15%; contato→paciente 20–40%. CPC estimado R$ 1,23–4,96. Volume local baixo (~10 buscas/mês para "psicólogo cosmópolis").
 - Sessão R$ 120–160 → R$ 150/mês se paga com ~1–2 sessões.
 - Métricas a acompanhar: impressões, cliques, CTR, CPC médio, custo, cliques no WhatsApp (conversões), custo por contato, pacientes novos vindos do Google (Marília informa).
+| 25/11/2026 | Campanha ATIVADA (PAUSED → ENABLED), R$ 4,93/dia | Marília (link Supermetrics) |
+
+## Agenda de análise (Agenda Google)
+- Toda segunda 9h, de 30/11/2026 a 25/01/2027: Marília manda prints (Campanhas + Termos de pesquisa) + pacientes novos; Claude preenche a planilha.
+- 09/12/2026 (Dia 14): revisar termos e negativas.
+- 28/12/2026 (Dia 30, Natal adiado): balanço do 1º mês.
+- 25/01/2027 (Dia 60): decidir continuar/ajustar/parar; avaliar página própria de Avaliação Neuropsicológica.
