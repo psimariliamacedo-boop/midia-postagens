@@ -139,3 +139,8 @@ Termos que levaram ao Perfil (período do app, provavelmente o mês corrente):
 - Reels NORMAIS (não teste): agendar no Metricool marcando Instagram + Facebook (página facebookData 752334907962229).
 - Reels de TESTE (Trial): só Instagram (o formato não vai pro Facebook).
 - Os 3 rascunhos (28/11, 03/12, 05/12 às 18h) ficam como estão até a Marília decidir.
+
+## Ajuste casal/8 anos (aprovado pela Marília; aplicado em 26/11/2026)
+- APLICADO: removidas negativas casal/infantil/crianca; +4 palavras no grupo Terapia (terapia de casal cosmópolis, psicóloga infantil cosmópolis, terapia infantil cosmópolis, psicóloga para adolescente cosmópolis); títulos "Terapia a partir de 8 anos", "Terapia de Casal Presencial", "Consultório no Bela Vista IV", "Avaliação a partir de 8 anos"; descrições novas.
+- RECUSADO pelo Google (política): as 3 palavras infantis do grupo Avaliação (avaliação neuropsicológica infantil, neuropsicóloga infantil, avaliação tdah infantil). Não reenviar igual; se quiser, pedir revisão/exceção pelo Google Ads ou testar outra forma ("avaliação neuropsicológica criança").
+- Anúncio do grupo Avaliação ainda "em análise" em 26/11.
