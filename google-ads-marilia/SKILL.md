@@ -127,3 +127,10 @@ Termos que levaram ao Perfil (período do app, provavelmente o mês corrente):
 - "De onde vêm as pacientes" (dia 1, 10h17): origem das pacientes → sobrepõe à contagem de origem da análise de segunda (manter as duas só se ela quiser).
 - "Relatório semanal dos reels" (seg 8h32), "Assuntos em alta do dia" (diário 7h40), "Carol – atualizar agenda" (7h/12h/18h).
 - Meta Ads: conferir anúncios 27/11 19h; balanço rodada 1 em 02/12 10h; teto combinado R$ 400/mês "em todas as campanhas" (Meta) — somar com Google Ads R$ 150 e confirmar o teto total com ela.
+
+## Rotinas UNIFICADAS (26/11/2026, pedido da Marília: um dia só para analisar o Google)
+- SEGUNDA 8h43: "Relatório semanal do Google (ficha + anúncios)" (trig_013fnYKGwLtDNHqbHMHkcyJP) = ÚNICA análise semanal: ficha do Google + Google Ads + pedir avaliações + respostas às avaliações. Não escreve mais post.
+- Desligada (não apagada): "Google Ads: análise de segunda (autônoma)" (trig_01Mqd5qKhHA3M8Wc3rwcSxsf).
+- DIA 05: análise mensal das buscas + postagens do Google do mês (trig_01FmTa4KtTPvXAeogFFVE86V).
+- DIA 1: origem das pacientes do mês (trig_013T9tvvbePNtF6kbWEYBLLK).
+- Planilha de métricas: preencher a partir do relatório de segunda quando a Marília pedir.
