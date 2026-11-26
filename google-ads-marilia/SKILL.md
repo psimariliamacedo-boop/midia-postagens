@@ -11,7 +11,7 @@ Dados de contato/CRP: ver skill `dados-profissionais-marilia`.
 ## Regras de ouro
 - **Nada vai ao ar sem ordem explícita da Marília.** Criar/editar sempre com a campanha PAUSADA.
 - **Orçamento total: R$ 150 por mês** (R$ 4,93/dia). Só **1 campanha ativa** por vez.
-- Público: **só adultos**. **Não atende casal.** Atende **à noite**: sim.
+- Público (CORRIGIDO 26/11/2026): **crianças a partir de 8 anos, adolescentes, adultos e casais** (casal só presencial). Atende à noite e sábado 8h–12h. **Atendimento particular** (sem convênio; recibo para reembolso).
 - Ética CFP: sem promessa de cura/resultado, sem preço no anúncio, "sigilo profissional" (nunca "absoluto").
 - **Não usar "Neuropsicóloga" nem "Especialista"** como título (exige título de especialista registrado no CRP). Usar **"Formação em Neuropsicologia"**. "Pós em Neuropsicologia" foi recusado por ela (soa rebaixado).
 - Site oficial: **https://mariliamacedopsi.com.br** (não usar psicologa-marilia-macedo.vercel.app).
@@ -92,4 +92,4 @@ Remover só com ok da Marília.
 - Google Search Console: ativado (26/11/2026).
 - Endereço: Rua Santa Gertrudes, 1230, Bela Vista IV (Perfil da Empresa já correto, 48 avaliações nota 5,0 em 26/11/2026).
 - Registro de estratégias e linha de base do Perfil: /home/user/midia-postagens/estrategias-marketing.md (ramo claude/google-ads-registro).
-- PENDENTE de confirmação: conflito com a skill da Carol (casal presencial R$ 240; atende a partir de 8 anos; sábado 8h–12h) × o que a Marília disse aqui (não atende casal; só adultos).
+- RESOLVIDO 26/11/2026: atende casais (presencial) e a partir de 8 anos; particular; manter "Neuropsicóloga" no site (decisão dela, risco CFP já avisado). Ajuste do Google Ads enviado para aprovação (remove negativas casal/infantil/crianca; +7 palavras; títulos "Terapia a partir de 8 anos", "Terapia de Casal Presencial", "Avaliação a partir de 8 anos", "Consultório no Bela Vista IV").

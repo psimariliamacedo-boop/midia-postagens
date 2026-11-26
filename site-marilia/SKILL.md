@@ -40,7 +40,7 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 
 ## Alterações propostas (aguardando decisão da Marília)
 1. **FEITO 25/11 (aguardando publicação):** botão verde "Agendar pelo WhatsApp" fixo no canto inferior direito (mensagem "Olá, Marília! Vim pelo site e quero agendar."; conta como conversão). Arquivo: entregas/site/index.html. Antes era: (celular e computador), com mensagem pronta e contando como conversão — prioridade alta (hoje não há WhatsApp na 1ª tela do celular).
-2. **"Neuropsicóloga"** no topo e na descrição: risco com o CFP se não houver título de especialista registrado no CRP. Sugestão: "Psicóloga · Neuropsicologia". Ela não gosta de "Pós em Neuropsicologia". Decisão pendente.
+2. **"Neuropsicóloga"**: DECIDIDO 26/11/2026 — MANTER (decisão da Marília; risco CFP já avisado). Não perguntar de novo.
 3. Card 2 sem mensagem pronta: opcional adicionar texto.
 
 ## Registro de alterações no site
@@ -59,3 +59,9 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 
 ## Regra geral
 - Antes de perguntar algo à Marília, consultar as skills site-marilia, google-ads-marilia, dados-profissionais-marilia e carol-assistente-marilia e o arquivo estrategias-marketing.md. Todo fato novo confirmado por ela deve ser anotado na skill correspondente.
+
+## Pacote do site (26/11/2026) — entregas/site-pacote/ (zip: entregas/site-pacote.zip)
+- index.html com botão fixo do WhatsApp + canonical + Open Graph (imagem img/compartilhar.jpg) + dados estruturados (ProfessionalService/LocalBusiness: endereço Santa Gertrudes 1230, telefone, horários ter–sex 8–21h e sáb 8–12h, áreas atendidas, Instagram e Google).
+- 7 fotos tiradas de dentro da página e comprimidas em WebP: página caiu de 387 KB para 24 KB + 172 KB de imagens.
+- robots.txt e sitemap.xml novos. Testado no iPhone (Playwright): 0 imagens quebradas, botão ok.
+- Publicar: Netlify → Deploys → arrastar a PASTA site-pacote inteira (substitui o site; tudo está dentro). Depois: Search Console → Sitemaps → enviar "sitemap.xml" e Inspeção de URL da página inicial.

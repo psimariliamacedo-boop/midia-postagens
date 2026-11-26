@@ -26,3 +26,9 @@ Revisar toda segunda na análise automática.
 Avaliações: 48, nota 5,0.
 Termos de busca que acharam o perfil (cada um < 15 pessoas no período): avaliação neuropsicológica; psicóloga cosmópolis / psicologa cosmopolis / psicóloga em cosmopolis; psicólogo; psicólogo cosmopolis; quais são os psicólogos; terapia pela unimed; clinica de estetica cosmopolis sp (irrelevante).
 Obs.: contatos por WhatsApp vindos do perfil não aparecem nesses números (só ligações, site e rotas).
+
+## Atualizações 26/11/2026
+- Estratégia 1: ajuste enviado para aprovação — atende casais e a partir de 8 anos (removidas negativas casal/infantil/crianca; +7 palavras: casal, infantil, adolescente, avaliação infantil, TDAH infantil).
+- Estratégia 2+4: pacote do site pronto (botão fixo + SEO + fotos comprimidas: 387 KB → 24 KB + 172 KB). Aguardando publicação na Netlify; depois enviar sitemap no Search Console (ativado).
+- Estratégia 3: postagens revisadas (todas as idades a partir de 8 anos, casais, particular, post "Atende Unimed?"); aguardando aprovação.
+- Estratégia 5: contagem de origem incluída na análise automática de segunda (conversas da Carol 22h–7h + números da Marília 7h–22h).
