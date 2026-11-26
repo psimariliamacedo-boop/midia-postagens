@@ -109,3 +109,9 @@ Termos que levaram ao Perfil (período do app, provavelmente o mês corrente):
 5. **"psicólogo online"**: candidato a palavra-chave/campanha online no futuro.
 6. **"perto de mim"**: depende do Maps → manter Perfil completo, fotos novas do consultório e postagens 2x/semana.
 7. Rotina: todo mês (1ª segunda) pedir/ler o "Detalhamento das pesquisas" e comparar com este registro. Fonte automática: Windsor google_my_business (search_keyword) enquanto o teste durar.
+
+## Rotina mensal — DIA 05 (criada 26/11/2026, a pedido da Marília)
+- Todo dia 05 ~8h43 (tarefa agendada nesta sessão): analisar termos de pesquisa e desempenho do Google Business do mês anterior + perguntas reais do Google (sugestões pt-BR) + dúvidas da Carol → escrever as postagens do Google Business do mês (2/semana, ter e sex 10h, skill escrita-marilia) → enviar para aprovação → só agendar no Metricool após "pode agendar".
+- Base de perguntas e termos: perguntas-google.md (atualizar todo mês). Primeira execução: 05/12/2026 (postagens de janeiro; dezembro já foi preparado em 26/11).
+- Fontes: Windsor (até ~25/12/2026) → depois Metricool (googleBusinessProfile) ou print da Marília (Desempenho → Detalhamento das pesquisas).
+- Toda segunda continua a análise semanal do Google Ads + Perfil + origem dos contatos.

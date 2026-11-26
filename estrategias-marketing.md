@@ -35,3 +35,4 @@ Obs.: contatos por WhatsApp vindos do perfil não aparecem nesses números (só 
 - 26/11: método de pesquisa de perguntas definido — sugestões de busca do Google em português (perguntas-google.md, 472 sugestões) + termos do Perfil da Empresa + conversas da Carol. Melhor que findquestions.com (Reddit, inglês). Postagens de dezembro refeitas (v2): todas respondem perguntas reais.
 - 26/11: print do "Detalhamento das pesquisas" do Perfil: "marilia" 36, "psicólogo cosmopolis" 17; Unimed 2x; psicólogo infantil; Campinas; psicólogo online. Conclusões e ações registradas na skill google-ads-marilia. Revisar mensalmente.
 - 26/11: criada a skill escrita-marilia (voz dela + o que denuncia texto de IA + CFP). Postagens de dezembro reescritas (v3) seguindo a skill.
+- 26/11: rotina mensal do dia 05 criada (análise do Google Business + perguntas reais + postagens do mês). Termos do print da Marília incluídos em perguntas-google.md.

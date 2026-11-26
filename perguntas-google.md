@@ -1,3 +1,10 @@
+# Termos REAIS que acharam o Perfil da Empresa (prints da Marília, 26/11/2026)
+Fonte: Google Business → Desempenho → Detalhamento das pesquisas. Números = pessoas diferentes no mês.
+- marilia — 36 (ver ressalva na skill google-ads-marilia: parte pode ser a cidade Marília/SP ou outras Marílias)
+- psicólogo cosmopolis — 17
+- < 15 cada: avaliação neuropsicológica · neuropsicologia · neuropsicólogo · neuropsicologa marilia em campinas · psicologa · psicóloga · psicólogo · psicologo · psicologia · psicologa cosmopolis · psicóloga cosmópolis · psicóloga em cosmopolis · psicologo cosmopolis · psicologo em cosmopolis · psicologo unimed cosmopolis · terapia pela unimed · psicólogo infantil cosmopolis sp · psicóloga perto de mim · psicólogo online · quais são os psicólogos · terapia
+- Ignorar: clinica de estetica cosmopolis sp · clínica na rua · clínica pronto socorro particular cosmopolis · marília, sp · nome de outra psicóloga
+
 # Perguntas reais do Google (sugestões de busca pt-BR, coletadas 26/11/2026)
 
 Método: sugestões de autocompletar do Google (suggestqueries.google.com, hl=pt-BR, gl=br) para 'como/quanto/o que/quando/por que/qual/precisa/é normal/quanto tempo/pode' + tema. Repetir a cada 2–3 meses.
