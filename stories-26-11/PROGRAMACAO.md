@@ -19,8 +19,8 @@ Fotos pessoais editadas (luz, pele, cor quente, nitidez): pasta `fotos-editadas/
 ## Sex 27/11
 | Hora | Arquivo | O que fazer |
 |---|---|---|
-| Manhã | Story 2026-11-27 manha.jpg | Postar como está. |
-| 12h–14h | Story 2026-11-27 tarde ENQUETE.mp4 | **Enquete:** *Já fiz / Ainda não*, na parte de baixo. Localização Cosmópolis. |
+| Manhã | Story 2026-11-27 manha.mp4 | Vídeo "Meta x Realidade" da balinha. Postar como está (pode pôr música divertida). Sem figurinha de chamada. |
+| 12h–14h | Story 2026-11-27 tarde ENQUETE.jpg | **Enquete:** *Já fiz / Ainda não*, embaixo. |
 | 17h | Reel "Medo da primeira sessão?" | Aviãozinho → Adicionar ao story. |
 
 ## Sáb 28/11
@@ -62,6 +62,7 @@ Meta por story: 100 pessoas ou mais e 3 respostas ou mais. Balanço em 04/12.
 
 ## Reserva (não postar nesta semana)
 - `reserva/Story reserva bar-janela.jpg`: foto do bar, trocada pelo vídeo da fachada.
-- `reserva/Story 2026-11-27 tarde ENQUETE (versao foto).jpg`: trocada pelo vídeo da balinha.
+- `reserva/Story reserva retrato-cortina.jpg`: retrato da sexta, trocado pelo vídeo Meta x Realidade.
+- `reserva/Story 2026-11-27 tarde ENQUETE (versao video balinha).mp4`: para não repetir a balinha no mesmo dia.
 - Para-brisa na chuva (set/2026): guardar para um dia de chuva.
 - Retrato de perfil (Meta AI): não usar. Olhos fechados e foto editada por IA.
