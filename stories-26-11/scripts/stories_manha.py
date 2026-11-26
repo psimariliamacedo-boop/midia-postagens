@@ -11,7 +11,7 @@ def wrap(f, txt, w):
         else: cur = t
     return L + [cur]
 def story(src, txt, sub, out, y, cx=0.5):
-    im = ImageOps.fit(ImageOps.exif_transpose(Image.open(f"{W}/pessoais/{src}")).convert("RGB"), (1080, 1920), centering=(cx, 0.5), method=Image.LANCZOS)
+    im = ImageOps.fit(ImageOps.exif_transpose(Image.open(f"{W}/pessoais_editadas/{src}")).convert("RGB"), (1080, 1920), centering=(cx, 0.5), method=Image.LANCZOS)
     d = ImageDraw.Draw(im); L = wrap(FL, txt, 820); asc = FL.getbbox("ÁgÇ"); lh = asc[3] - asc[1] + 18
     w = int(max(FL.getlength(l) for l in L)) + 100; h = len(L) * lh + 60; x = (1080 - w) // 2
     d.rectangle((x, y, x + w, y + h), fill="white"); yy = y + 30
@@ -23,7 +23,6 @@ def story(src, txt, sub, out, y, cx=0.5):
     im.save(f"{W}/out/{out}", quality=92)
 J = [("carro-chuva.jpg", "Spoiler: ninguém tira nota.", "Hoje às 19h eu explico", "2026-11-26 manha", 1180),
      ("retrato-cortina.jpg", "Sexta de sala aberta.", "Às 17h: como é a primeira sessão", "2026-11-27 manha", 1180, 0.55),
-     ("bar-janela.jpg", "Sábado sem pressa nenhuma.", "Às 19h: o antes e depois da sala", "2026-11-28 manha", 1260),
      ("escada.jpg", "Segunda pela escada.", "Hoje às 18h", "2026-11-30 manha", 250),
      ("cafe-copinho.jpg", "Primeiro café de dezembro.", "Às 20h: a primeira sessão aqui", "2026-12-01 manha", 1120),
      ("selfie-parede.jpg", "Quarta, cara lavada e sorriso.", "Às 20h eu respondo a caixinha", "2026-12-02 manha", 1230)]

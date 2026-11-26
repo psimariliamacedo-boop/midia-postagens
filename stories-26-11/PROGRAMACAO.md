@@ -1,20 +1,67 @@
-# Stories · 26/11 a 02/12/2026
+# Stories · 26/11 a 02/12/2026 · passo a passo
 
-Máximo 3 por dia. Manhã = foto/vídeo seu (1 frase, até 1 emoji). Tarde = arte pronta + figurinha colocada por você. Noite = reel do dia (aviãozinho → Adicionar ao story).
+Máximo 3 por dia. O nome de cada arquivo traz a data e o horário (manhã, tarde, noite).
+Fotos pessoais editadas (luz, pele, cor quente, nitidez): pasta `fotos-editadas/`. Script: `scripts/editar_fotos.py`.
 
-| Dia | Manhã (8h–10h) · você fotografa | Tarde (12h–14h) · arte pronta | Noite |
-|---|---|---|---|
-| Qui 26/11 | ARTE PRONTA (foto no carro): "Spoiler: ninguém tira nota." + Hoje às 19h eu explico | CAIXINHA: Qual a sua dúvida sobre a avaliação de TDAH? | 19h reel TDAH é prova? |
-| Sex 27/11 | ARTE PRONTA (retrato na cortina): "Sexta de sala aberta." + Às 17h: como é a primeira sessão | ENQUETE em VÍDEO (balinha na sala, 3,5 s): Você já fez terapia? Já fiz / Ainda não · pôr figurinha Cosmópolis | 17h reel Medo da primeira sessão |
-| Sáb 28/11 | VÍDEO PRONTO (fachada, 6,5 s): "Por fora ela já está pronta." + Às 19h: o antes e depois · pôr figurinha Cosmópolis | ENQUETE: Você está recomeçando alguma coisa? Estou / Quero | 19h reel Antes e depois |
-| Dom 29/11 | Sem story de manhã (domingo de descanso) | ENQUETE: Seu domingo está sendo de descanso? Está / Que nada | 18h reel Descanso + arte PAUSA |
-| Seg 30/11 | ARTE PRONTA (escada): "Segunda pela escada." + Hoje às 18h | CAIXINHA: O que você mais esquece no dia a dia? | 18h reel Sempre se achou desorganizada? |
-| Ter 01/12 | ARTE PRONTA (copinho de café): "Primeiro café de dezembro." + Às 20h: a primeira sessão aqui | ENQUETE: Café ou água? Café / Água | 20h reel Primeira sessão aqui |
-| Qua 02/12 | ARTE PRONTA (selfie parede cinza): "Quarta, cara lavada e sorriso." + Às 20h eu respondo a caixinha | CAIXINHA: Qual a sua maior curiosidade sobre terapia? | 20h reel Psicóloga chora? |
+**Como colocar as figurinhas (no app do Instagram):**
+- **Enquete:** figurinha "Enquete" → apague a pergunta padrão (a pergunta já está na arte) → escreva as 2 opções → coloque no espaço livre, no meio ou embaixo.
+- **Caixinha:** figurinha "Perguntas" → apague o texto padrão e escreva "Me conta aqui" → coloque no meio da tela.
+- **Localização:** figurinha "Local" → Cosmópolis.
+- Nunca em cima do rosto.
+
+## Qui 26/11 (hoje)
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| Manhã | Story 2026-11-26 manha.jpg | Postar como está. |
+| 12h–14h | Story 2026-11-26 tarde CAIXINHA.jpg | **Caixinha** no meio. No dia seguinte, responda 2 ou 3 perguntas (sem dar diagnóstico). |
+| 19h | Reel "Avaliação de TDAH é uma prova?" | Aviãozinho → Adicionar ao story. |
+
+## Sex 27/11
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| Manhã | Story 2026-11-27 manha.jpg | Postar como está. |
+| 12h–14h | Story 2026-11-27 tarde ENQUETE.mp4 | **Enquete:** *Já fiz / Ainda não*, na parte de baixo. Localização Cosmópolis. |
+| 17h | Reel "Medo da primeira sessão?" | Aviãozinho → Adicionar ao story. |
+
+## Sáb 28/11
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| Manhã | Story 2026-11-28 manha.mp4 | Localização Cosmópolis. Música calma, se quiser. |
+| 12h–14h | Story 2026-11-28 tarde ENQUETE.jpg | **Enquete:** *Estou / Quero*, no meio. |
+| 19h | Reel "Antes e depois da sala" | Aviãozinho → Adicionar ao story. |
+
+## Dom 29/11 (sem story de manhã)
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| 12h–14h | Story 2026-11-29 tarde ENQUETE.jpg | **Enquete:** *Está / Que nada*, no meio. |
+| 18h | Reel "Você descansa de verdade?" | Aviãozinho → Adicionar ao story. |
+| Logo depois | Story 2026-11-29 noite PAUSA.jpg | Postar como está. |
+
+## Seg 30/11
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| Manhã | Story 2026-11-30 manha.jpg | Postar como está. |
+| 12h–14h | Story 2026-11-30 tarde CAIXINHA.jpg | **Caixinha** no meio. |
+| 18h | Reel "Sempre se achou desorganizada?" | Aviãozinho → Adicionar ao story. |
+
+## Ter 01/12
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| Manhã | Story 2026-12-01 manha.jpg | Postar como está. |
+| 12h–14h | Story 2026-12-01 tarde ENQUETE.jpg | **Enquete:** *Café / Água*, embaixo. Localização Cosmópolis. |
+| 20h | Reel "Como é a primeira sessão aqui?" | Aviãozinho → Adicionar ao story. |
+
+## Qua 02/12
+| Hora | Arquivo | O que fazer |
+|---|---|---|
+| Manhã | Story 2026-12-02 manha.jpg | Postar como está. |
+| 12h–14h | Story 2026-12-02 tarde CAIXINHA.jpg | **Caixinha** no meio. Localização Cosmópolis. |
+| 20h | Reel "Psicóloga chora com o paciente?" | Aviãozinho → Adicionar ao story. |
 
 Meta por story: 100 pessoas ou mais e 3 respostas ou mais. Balanço em 04/12.
 
-## Reserva
-- Foto do bar (reserva/Story reserva bar-janela.jpg): saiu do sábado, ficou no lugar o vídeo da fachada.
-- Foto do para-brisa na chuva (set/2026): guardar para um dia de chuva.
+## Reserva (não postar nesta semana)
+- `reserva/Story reserva bar-janela.jpg`: foto do bar, trocada pelo vídeo da fachada.
+- `reserva/Story 2026-11-27 tarde ENQUETE (versao foto).jpg`: trocada pelo vídeo da balinha.
+- Para-brisa na chuva (set/2026): guardar para um dia de chuva.
 - Retrato de perfil (Meta AI): não usar. Olhos fechados e foto editada por IA.
