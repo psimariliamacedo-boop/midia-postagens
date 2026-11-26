@@ -86,4 +86,6 @@ Quem fecha o diagnóstico de TDAH é o médico, psiquiatra ou neurologista. A av
 
 Reconhecer sinais não é diagnóstico. Avaliação a partir de 8 anos, em Cosmópolis.
 
+Estou em recesso até 04/01 e volto a atender no dia 05. Os horários de janeiro já podem ser reservados pelo WhatsApp (19) 99784-7824.
+
 Marília Macêdo · Psicóloga e Neuropsicóloga · CRP 06/229488

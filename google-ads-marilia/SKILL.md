@@ -115,3 +115,15 @@ Termos que levaram ao Perfil (período do app, provavelmente o mês corrente):
 - Base de perguntas e termos: perguntas-google.md (atualizar todo mês). Primeira execução: 05/12/2026 (postagens de janeiro; dezembro já foi preparado em 26/11).
 - Fontes: Windsor (até ~25/12/2026) → depois Metricool (googleBusinessProfile) ou print da Marília (Desempenho → Detalhamento das pesquisas).
 - Toda segunda continua a análise semanal do Google Ads + Perfil + origem dos contatos.
+
+## Agenda Google — regras para eventos de marketing (26/11/2026)
+- A rotina "Carol – atualizar agenda" (7h/12h/18h) trata QUALQUER evento da agenda principal como horário ocupado (só ignora aniversário). Por isso, todo evento de marketing:
+  - título começa com "[Marketing]"; fica às 7h00–7h10 (antes do 1º horário de paciente, 8h) ou na segunda (fechado); disponibilidade "livre"; nunca dia inteiro.
+- Já criados: um evento por dia de postagem (Instagram do Metricool + Google Business) de 26/11 a 06/12 e Google Business 08–29/12; recorrentes: segunda 8h30 (relatórios), dia 1 (origem das pacientes), dia 5 (Google Business, a partir de jan), diário 7h40 (pauta do Instagram); 09/12 (Dia 14), 28/12 (Dia 30), 25/01 (Dia 60).
+- Recesso: sem atendimento de 23/12/2026 a 04/01/2027; volta 05/01.
+
+## Outras rotinas automáticas da conta (de outras conversas) — atenção a sobreposições
+- "Relatório semanal da ficha do Google" (seg 8h43): analisa a ficha E escreve 1 post semanal → sobrepõe à rotina do dia 05 (postagens do mês). Decidir com a Marília qual fica com os posts.
+- "De onde vêm as pacientes" (dia 1, 10h17): origem das pacientes → sobrepõe à contagem de origem da análise de segunda (manter as duas só se ela quiser).
+- "Relatório semanal dos reels" (seg 8h32), "Assuntos em alta do dia" (diário 7h40), "Carol – atualizar agenda" (7h/12h/18h).
+- Meta Ads: conferir anúncios 27/11 19h; balanço rodada 1 em 02/12 10h; teto combinado R$ 400/mês "em todas as campanhas" (Meta) — somar com Google Ads R$ 150 e confirmar o teto total com ela.
