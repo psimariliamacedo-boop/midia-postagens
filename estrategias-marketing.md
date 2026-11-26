@@ -14,3 +14,15 @@ Revisar toda segunda na análise automática.
 
 ## Observações
 - 25/11–26/11: Marília relata que "nos últimos dias muitas pessoas do Google me procuraram" — conferir com dados do Perfil da Empresa (impressões/cliques) e anotar quantos viraram pacientes.
+
+## Linha de base — Perfil da Empresa no Google (Windsor, consultado 26/11/2026)
+| Semana ISO | Período | Aparições | Cliques no site | Ligações | Pedidos de rota |
+|---|---|---|---|---|---|
+| 44 | 26/10–01/11 | 36 | 1 | 1 | 17 |
+| 45 | 02/11–08/11 | 61 | 2 | 1 | 26 |
+| 46 | 09/11–15/11 | 69 | 1 | 4 | 13 |
+| 47 | 16/11–22/11 | 51 | 0 | 0 | 11 |
+| 48 | 23/11–29/11 | (Google ainda não liberou — atraso de alguns dias) | | | |
+Avaliações: 48, nota 5,0.
+Termos de busca que acharam o perfil (cada um < 15 pessoas no período): avaliação neuropsicológica; psicóloga cosmópolis / psicologa cosmopolis / psicóloga em cosmopolis; psicólogo; psicólogo cosmopolis; quais são os psicólogos; terapia pela unimed; clinica de estetica cosmopolis sp (irrelevante).
+Obs.: contatos por WhatsApp vindos do perfil não aparecem nesses números (só ligações, site e rotas).
