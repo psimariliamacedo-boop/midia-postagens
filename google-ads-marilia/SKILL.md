@@ -33,7 +33,7 @@ Dados de contato/CRP: ver skill `dados-profissionais-marilia`.
 
 ### Grupo 1 — Terapia - Cosmópolis e Região (ID 199356940981)
 Palavras: psicóloga cosmópolis, psicólogo cosmópolis, psicólogo em cosmópolis [exata], psicóloga em cosmópolis [exata], terapia cosmópolis, terapia em cosmópolis [exata], clínica de psicologia cosmópolis, psicóloga paulínia, psicóloga artur nogueira, psicóloga holambra, terapia cognitivo comportamental cosmópolis, neuropsicóloga cosmópolis (demais em frase).
-Títulos: Psicóloga em Cosmópolis · Marília Macêdo Psicóloga · CRP 06/229488 · Terapia Cognitiva (TCC) · Presencial e Online · Agende pelo WhatsApp · Formação em Neuropsicologia · Psicóloga em Paulínia e Região · Primeiro Contato pelo WhatsApp · Terapia para Adultos · Sessões Online pelo Meet · Horários à Noite · Ansiedade e Saúde Emocional · Consultório no Bairro Damiano · Terapia Baseada em Evidências
+Títulos: Psicóloga em Cosmópolis · Marília Macêdo Psicóloga · CRP 06/229488 · Terapia Cognitiva (TCC) · Presencial e Online · Agende pelo WhatsApp · Formação em Neuropsicologia · Psicóloga em Paulínia e Região · Primeiro Contato pelo WhatsApp · Terapia para Adultos · Sessões Online pelo Meet · Horários à Noite · Ansiedade e Saúde Emocional · Consultório no Bela Vista IV · Terapia Baseada em Evidências
 Descrições: (1) Psicoterapia baseada em TCC, presencial em Cosmópolis ou online. Fale pelo WhatsApp. (2) Atendimento ético e acolhedor, com sigilo profissional. Psicóloga CRP 06/229488. (3) Dê o primeiro passo no cuidado com a sua saúde emocional. Agende sua sessão. (4) Formação em Neuropsicologia. Atendimento para adultos, presencial e online.
 
 ### Grupo 2 — Avaliação Neuropsicológica - Adultos (ID 207550894452)
@@ -82,3 +82,8 @@ Remover só com ok da Marília.
 - **Windsor.ai**: Google Ads conectado em 25/11, só durante o mês de teste — Marília NÃO vai renovar.
 - **Supermetrics**: teste expirado; NÃO pagar. Usado só para ler configuração/fazer alterações aprovadas enquanto permitir.
 - Análise automática: toda segunda ~8h47 (tarefa agendada nesta sessão), de 30/11/2026 a 25/01/2027.
+
+## Endereço (atualizado 25/11/2026)
+- Consultório atual: **Rua Santa Gertrudes, 1230 · Bela Vista IV · Cosmópolis/SP** (o site já mostra este). Antigo (NÃO usar): Rua Sete de Abril, 610 – Damiano.
+- Título do anúncio trocado de "Consultório no Bairro Damiano" para "Consultório no Bela Vista IV" (enviado para aprovação da Marília em 25/11).
+- Postagens do Google (Perfil da Empresa) via Metricool: nenhuma agendada até 25/11; proposta de 1 por semana em dezembro, aguardando ok.

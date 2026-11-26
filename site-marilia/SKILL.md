@@ -13,6 +13,7 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 - Login: app.netlify.com — confirmar se entra com psi.mariliamacedo@gmail.com (pendente).
 - Publicar alteração: editar o index.html e arrastar para a Netlify (Deploys → arrastar arquivo/pasta).
 - Em sessões na nuvem, o domínio foi liberado na rede do ambiente "Criação Vídeo" (25/11/2026).
+- Endereço do consultório no site: Rua Santa Gertrudes, 1230, Bela Vista IV, Cosmópolis (correto, atualizado).
 - Link usado no Perfil da Empresa no Google: https://mariliamacedopsi.com.br/?utm_source=google&utm_medium=perfil-empresa&utm_campaign=gbp
 
 ## Conteúdo atual (revisado em 25/11/2026)
