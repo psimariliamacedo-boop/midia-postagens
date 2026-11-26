@@ -32,3 +32,4 @@ Obs.: contatos por WhatsApp vindos do perfil não aparecem nesses números (só 
 - Estratégia 2+4: pacote do site pronto (botão fixo + SEO + fotos comprimidas: 387 KB → 24 KB + 172 KB). Aguardando publicação na Netlify; depois enviar sitemap no Search Console (ativado).
 - Estratégia 3: postagens revisadas (todas as idades a partir de 8 anos, casais, particular, post "Atende Unimed?"); aguardando aprovação.
 - Estratégia 5: contagem de origem incluída na análise automática de segunda (conversas da Carol 22h–7h + números da Marília 7h–22h).
+- 26/11: método de pesquisa de perguntas definido — sugestões de busca do Google em português (perguntas-google.md, 472 sugestões) + termos do Perfil da Empresa + conversas da Carol. Melhor que findquestions.com (Reddit, inglês). Postagens de dezembro refeitas (v2): todas respondem perguntas reais.
