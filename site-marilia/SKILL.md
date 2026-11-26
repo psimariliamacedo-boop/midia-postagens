@@ -65,3 +65,10 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 - 7 fotos tiradas de dentro da página e comprimidas em WebP: página caiu de 387 KB para 24 KB + 172 KB de imagens.
 - robots.txt e sitemap.xml novos. Testado no iPhone (Playwright): 0 imagens quebradas, botão ok.
 - Publicar: Netlify → Deploys → arrastar a PASTA site-pacote inteira (substitui o site; tudo está dentro). Depois: Search Console → Sitemaps → enviar "sitemap.xml" e Inspeção de URL da página inicial.
+
+## Site com páginas por tópico (26/11/2026) — entregas/site-pacote/ (zip ignorado no git)
+- Menu fixo no topo (☰) em todas as páginas: Início · Terapia para adultos (terapia.html) · Crianças e adolescentes (criancas-e-adolescentes.html) · Terapia de casal (terapia-de-casal.html, só presencial) · Avaliação neuropsicológica (avaliacao-neuropsicologica.html) · Perguntas frequentes (perguntas-frequentes.html, com dados estruturados FAQPage, 13 perguntas reais do Google).
+- Botão do WhatsApp agora REDONDO (60 px, verde, canto inferior direito), igual ao exemplo que a Marília mandou (site da Isadora Mattos). Cada página tem botão com mensagem pronta do tema.
+- sitemap.xml com as 6 páginas. Sem preço em nenhuma página (CFP). Testado no iPhone: 0 imagens quebradas, menu com 6 links.
+- AINDA NÃO PUBLICADO: a Marília precisa arrastar a pasta na Netlify e enviar o sitemap no Search Console.
+- Fotos do site (img/foto-1..7): 1 retrato blusa branca; 2 sorrindo com tablet; 3 e 4 café (mãos); 5 livros na mão; 6 sentada com notebook; 7 livros de TCC. Não há foto do consultório novo nem de criança.

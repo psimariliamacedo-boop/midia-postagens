@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Atendimento psicológico para crianças a partir de 8 anos e adolescentes, com orientação aos pais. Cosmópolis/SP e online. CRP 06/229488.">
+<title>Psicóloga para crianças e adolescentes em Cosmópolis · Marília Macêdo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Montserrat:wght@400;500;600&display=swap">
+<style>
+/* Layout: cartão de visita digital em coluna estreita — retrato grande no topo sobre o cinza lilás do estúdio, links como cartões com foto ao lado, "sobre" com retrato, dúvidas num bloco marinho */
+:root{
+  --studio:#C8C7CD;    /* cinza do fundo do estúdio */
+  --bg:#EDE6DF;        /* bege da logo */
+  --paper:#FBF8F5;
+  --navy:#1F2547;
+  --pink:#C23A7E;
+  --pink-soft:#F3D9E6;
+  --line:#DCD2C8;
+  --muted:#5D6180;
+  --display:"Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --body:"Montserrat", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: light;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--navy);font-family:var(--body);font-size:15px;line-height:1.55;margin:0}
+.page{max-width:480px;margin:0 auto;background:var(--bg)}
+.pad{padding-inline:18px}
+
+/* Hero */
+.hero{position:relative;background:var(--studio);overflow:hidden}
+.hero .top{position:absolute;inset:0 0 auto 0;display:flex;justify-content:space-between;align-items:center;padding:14px 18px;font-size:.66rem;letter-spacing:.2em;text-transform:uppercase;color:var(--navy);z-index:2}
+.hero .top::after{content:"";position:absolute;left:18px;right:18px;bottom:4px;border-bottom:1px solid rgba(31,37,71,.25)}
+.hero .top{padding-block:16px 18px}
+.hero .top img{width:46px;height:auto;mix-blend-mode:multiply}
+.hero .photo{display:block;width:100%;height:auto;aspect-ratio:860/1082;object-fit:cover;max-width:100%}
+.hero .shade{position:absolute;inset:auto 0 0 0;height:42%;background:linear-gradient(to bottom,rgba(31,37,71,0),rgba(31,37,71,.82) 78%,var(--navy))}
+.hero .name{position:absolute;left:0;right:0;bottom:22px;text-align:center;color:#fff;z-index:2;padding-inline:18px}
+.hero h1{font-family:var(--display);font-weight:500;font-size:2.7rem;line-height:1;margin:0;text-wrap:balance}
+.hero h1 em{font-style:italic;font-weight:500;color:#F7C6DD}
+.hero .role{margin:8px 0 0;font-size:.7rem;letter-spacing:.28em;text-transform:uppercase;color:#E6E3EE}
+
+.intro{background:var(--navy);color:#fff;text-align:center;padding-block:4px 26px}
+.intro p{font-family:var(--display);font-size:1.32rem;line-height:1.3;margin:0 auto;max-width:30ch;text-wrap:balance}
+.intro p em{color:#F7C6DD;font-style:italic}
+.meta{margin-top:12px;font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:#C9CBE0;display:flex;flex-wrap:wrap;justify-content:center;gap:4px 14px}
+
+/* Cartões de link */
+nav{display:flex;flex-direction:column;gap:14px;padding-block:26px 8px}
+.card{display:grid;grid-template-columns:1fr 38%;min-height:124px;text-decoration:none;color:var(--navy);background:var(--paper);border:1px solid var(--line);border-radius:16px;overflow:hidden;transition:transform .18s ease,box-shadow .18s ease}
+.card:hover{transform:translateY(-2px);box-shadow:0 10px 24px -14px rgba(31,37,71,.45)}
+.card:focus-visible{outline:2px solid var(--pink);outline-offset:3px}
+.card .tx{min-width:0;padding:16px 14px 16px 18px;display:flex;flex-direction:column;justify-content:center;gap:4px}
+.card h3{font-family:var(--display);font-style:italic;font-weight:600;font-size:1.55rem;line-height:1.05;margin:0}
+.card p{margin:0;font-size:.78rem;line-height:1.4;color:var(--muted)}
+.card .go{margin-top:6px;font-size:.66rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--pink)}
+.card img{width:100%;height:100%;object-fit:cover;display:block;max-width:100%}
+.card.dark{background:var(--navy);border-color:var(--navy);color:#fff}
+.card.dark p{color:#C9CBE0}
+.card.dark .go{color:#F7C6DD}
+.card.flip{grid-template-columns:38% 1fr}
+.card.flip img{order:-1}
+.card.taupe{background:#B9A99A;border-color:#B9A99A;color:var(--navy)}
+.card.taupe p{color:#3A3F5E}
+.card.taupe .go{color:var(--navy)}
+
+/* Sobre */
+.about{padding-block:30px 6px;display:flex;flex-direction:column;gap:16px}
+h2{font-family:var(--display);font-weight:500;font-size:2.1rem;line-height:1;margin:0;text-wrap:balance}
+h2 em{font-style:italic;color:var(--pink)}
+.about p{margin:0}
+.about .txt{display:flex;flex-direction:column;gap:10px}
+.portrait{position:relative;border-radius:18px;overflow:hidden;background:var(--studio)}
+.portrait img{display:block;width:100%;height:auto;max-width:100%;aspect-ratio:720/967;object-fit:cover}
+.portrait figcaption{position:absolute;left:14px;bottom:14px;background:var(--paper);color:var(--navy);font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;padding:7px 12px;border-radius:999px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:0;list-style:none}
+.chips li{font-size:.74rem;padding:6px 12px;border-radius:999px;background:var(--pink-soft);color:var(--navy)}
+
+/* Dúvidas */
+.books{margin:30px 0 0;display:block;line-height:0}
+.books img{display:block;width:100%;height:auto;max-width:100%;aspect-ratio:860/686;object-fit:cover}
+.faq{background:var(--navy);color:#fff;padding-block:30px 34px}
+.faq h2{color:#fff;text-align:center;margin-bottom:16px}
+.faq h2 em{color:#F7C6DD}
+details{border:1px solid rgba(255,255,255,.18);border-radius:12px;padding:14px 16px}
+.faq .list{display:flex;flex-direction:column;gap:10px}
+summary{cursor:pointer;font-weight:600;font-size:.9rem;list-style:none;display:flex;justify-content:space-between;gap:12px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";color:#F7C6DD;font-size:1.2rem;line-height:1}
+details[open] summary::after{content:"–"}
+summary:focus-visible{outline:2px solid #F7C6DD;outline-offset:4px;border-radius:4px}
+details p{margin:8px 0 0;color:#C9CBE0;font-size:.85rem}
+footer{text-align:center;font-size:.68rem;letter-spacing:.06em;color:#9EA2C0;margin-top:24px;display:flex;flex-direction:column;gap:3px}
+
+.card.solo{grid-template-columns:1fr;min-height:0;border-color:var(--pink);background:#FBEFF5}
+.card.solo .tx{padding:18px}
+.reviews{padding-block:30px 4px;display:flex;flex-direction:column;gap:16px}
+.reviews .score{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:.84rem;color:var(--muted)}
+.reviews .score b{font-family:var(--display);font-size:2rem;font-weight:600;color:var(--navy);line-height:1}
+.stars{color:#E0A23A;letter-spacing:2px;font-size:.95rem}
+.reviews ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+.reviews li{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:20px 18px 18px;display:flex;flex-direction:column;gap:14px}
+.reviews li::before{content:"\201C";font-family:var(--display);font-size:2.6rem;line-height:.4;color:var(--pink);height:14px}
+.reviews blockquote{margin:0;font-family:var(--display);font-style:italic;font-size:1.18rem;line-height:1.4;color:var(--navy)}
+.reviews .who{display:flex;align-items:center;gap:12px}
+.reviews .av{flex:none;width:40px;height:40px;border-radius:50%;background:var(--bg);display:grid;place-items:center;font-weight:600;font-size:.9rem;color:var(--navy)}
+.reviews .who span{display:flex;flex-direction:column;font-size:.84rem;font-weight:600}
+.reviews .who small{font-weight:400;color:var(--muted);font-size:.74rem}
+.reviews .more{align-self:flex-start;font-size:.7rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--pink);text-decoration:none}
+.reviews .more:focus-visible{outline:2px solid var(--pink);outline-offset:3px}
+.topics{display:flex;flex-direction:column;gap:14px}
+.topics h3{font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;margin:0 0 8px;color:var(--muted);font-weight:600}
+.chips.navy li{background:var(--navy);color:#fff}
+.closing{background:var(--navy);color:#fff;border-radius:18px;padding:22px 20px;text-align:center;display:flex;flex-direction:column;gap:12px;align-items:center;margin-top:6px}
+.closing p{font-family:var(--display);font-size:1.4rem;line-height:1.2;margin:0;text-wrap:balance}
+.closing p em{color:#F7C6DD}
+.closing a{background:var(--pink);color:#fff;text-decoration:none;font-weight:600;font-size:.88rem;padding:12px 22px;border-radius:999px}
+.closing a:focus-visible{outline:2px solid #fff;outline-offset:3px}
+.why{padding-block:30px 4px;display:flex;flex-direction:column;gap:16px}
+.why .lead{margin:0;color:var(--muted);font-size:.92rem}
+.why ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px;counter-reset:w}
+.why li{counter-increment:w;background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:16px 16px 16px 58px;position:relative}
+.why li::before{content:counter(w,decimal-leading-zero);position:absolute;left:16px;top:14px;font-family:var(--display);font-style:italic;font-size:1.6rem;line-height:1;color:var(--pink)}
+.why h3{font-family:var(--display);font-weight:600;font-size:1.3rem;line-height:1.1;margin:0 0 4px}
+.why p{margin:0;font-size:.84rem;line-height:1.5;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+</style>
+
+<!-- ===== RASTREAMENTO (Google Ads) mariliamacedopsi.com.br ===== -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-18214841341"></script>
+<script>
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
+gtag('js',new Date());
+gtag('config','AW-18214841341');
+gtag('config','AW-18048200069');
+</script>
+<script>
+(function(){
+  var WHATS='AW-18048200069/EICaCOCY27YdEIXbhp5D';
+  var FORM ='AW-18048200069/qo0OCOOY27YdEIXbhp5D';
+  var qs=new URLSearchParams(location.search),utm={};
+  ['utm_source','utm_medium','utm_campaign','utm_content','gclid'].forEach(function(k){if(qs.get(k))utm[k]=qs.get(k)});
+  function tipo(a){
+    var h=a.href||'';
+    if(h.indexOf('tally.so')>-1)return 'formulario_avaliacao';
+    if(h.indexOf('wa.me')>-1)return h.indexOf('terapia')>-1?'whatsapp_terapia':(h.indexOf('text=')>-1?'whatsapp_primeira_conversa':'whatsapp_geral');
+    if(h.indexOf('instagram.com')>-1)return 'instagram';
+    if(h.indexOf('google.com/maps')>-1)return 'maps';
+    return null;
+  }
+  function decorar(){document.querySelectorAll('a[href]').forEach(function(a){
+    if(a.href.indexOf('tally.so')>-1){var u=new URL(a.href);for(var k in utm)u.searchParams.set(k,utm[k]);a.href=u.toString()}
+  });}
+  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',decorar);else decorar();
+  document.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[href]');if(!a)return;
+    var t=tipo(a);if(!t||!window.gtag)return;
+    gtag('event','clique_'+t,{destino:a.href.split('?')[0],transport_type:'beacon'});
+    if(t==='formulario_avaliacao')gtag('event','conversion',{send_to:FORM});
+    if(t.indexOf('whatsapp')===0)gtag('event','conversion',{send_to:WHATS});
+  },true);
+})();
+</script>
+
+<link rel="canonical" href="https://mariliamacedopsi.com.br/criancas-e-adolescentes.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Psicóloga para crianças e adolescentes em Cosmópolis · Marília Macêdo">
+<meta property="og:description" content="Atendimento psicológico para crianças a partir de 8 anos e adolescentes, com orientação aos pais. Cosmópolis/SP e online. CRP 06/229488.">
+<meta property="og:url" content="https://mariliamacedopsi.com.br/criancas-e-adolescentes.html">
+<meta property="og:image" content="https://mariliamacedopsi.com.br/img/compartilhar.jpg">
+<meta property="og:locale" content="pt_BR">
+
+</head>
+<body><div class="menu"><details><summary>Marília Macêdo <b aria-hidden="true">☰</b><span style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)">Abrir menu</span></summary><nav aria-label="Páginas do site"><a href="./">Início</a><a href="terapia.html">Terapia para adultos</a><a href="criancas-e-adolescentes.html" aria-current="page">Crianças e adolescentes</a><a href="terapia-de-casal.html">Terapia de casal</a><a href="avaliacao-neuropsicologica.html">Avaliação neuropsicológica</a><a href="perguntas-frequentes.html">Perguntas frequentes</a></nav></details></div><div class="page"><main class="topico"><h1>Crianças e adolescentes</h1><p>A professora chamou de novo. Ele anda mais irritado, chora fácil, não quer ir pra escola. Quando a mudança dura semanas e atrapalha a rotina, vale procurar ajuda.</p><p>Atendo a partir dos 8 anos, sempre junto com os pais.</p><h2>Como os pais participam</h2><p>Na primeira conversa você me conta o que tem percebido e a gente decide os próximos passos. Os pais recebem orientação ao longo do processo.</p><p>O que a criança conta na sessão é tratado com cuidado: os pais ficam sabendo do que é preciso pra ajudar, sem expor a criança.</p><h2>Quando a dúvida é atenção ou aprendizagem</h2><p>Se surgir a pergunta sobre TDAH ou dificuldade na escola, a avaliação neuropsicológica pode ajudar. <a href="avaliacao-neuropsicologica.html">Veja como funciona</a>.</p><a class="chamar" href="https://wa.me/5519997847824?text=Ol%C3%A1%2C%20Mar%C3%ADlia%21%20Quero%20saber%20sobre%20atendimento%20para%20crian%C3%A7a/adolescente.">Me chama no WhatsApp</a><p class="nota">Reconhecer sinais não é diagnóstico. Atendimento conforme o Código de Ética do Psicólogo.</p></main><footer class="pad" style="padding-block:24px;font-size:.8rem;color:var(--muted)">Marília Macêdo · Psicóloga e Neuropsicóloga · CRP 06/229488<br>Rua Santa Gertrudes, 1230, Bela Vista IV, Cosmópolis/SP · Online para todo o Brasil<br>Contato só por WhatsApp: (19) 99784-7824 · Atendimento particular</footer></div><style>
+.wa-fixo{position:fixed;right:18px;bottom:18px;z-index:9999;width:60px;height:60px;border-radius:50%;background:#25D366;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 18px rgba(0,0,0,.28);text-decoration:none}
+.wa-fixo svg{width:34px;height:34px}
+.wa-fixo span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.wa-fixo:active{transform:scale(.95)}
+@media (min-width:900px){.wa-fixo{right:28px;bottom:28px}}
+.menu{position:sticky;top:0;z-index:50;background:var(--paper);border-bottom:1px solid var(--line)}
+.menu details{max-width:480px;margin:0 auto}
+.menu summary{list-style:none;display:flex;justify-content:space-between;align-items:center;padding:12px 18px;cursor:pointer;font-family:var(--display);font-size:1.35rem;color:var(--navy)}
+.menu summary::-webkit-details-marker{display:none}
+.menu summary::after{display:none!important;content:none!important}
+.menu summary b{font-family:var(--body);font-size:1.6rem;font-weight:400;line-height:1}
+.menu nav{display:flex;flex-direction:column;padding:4px 18px 14px}
+.menu nav a{padding:10px 0;border-top:1px solid var(--line);color:var(--navy);text-decoration:none;font-size:.95rem}
+.menu nav a[aria-current]{color:var(--pink);font-weight:600}
+.topico{padding:28px 18px 8px}
+.topico h1{font-family:var(--display);font-weight:500;font-size:2.3rem;line-height:1.05;margin:0 0 12px}
+.topico h2{font-family:var(--display);font-weight:500;font-size:1.6rem;margin:26px 0 8px}
+.topico p,.topico li{color:var(--navy)}
+.topico .chamar{display:inline-block;margin:18px 0 6px;background:var(--navy);color:#fff;padding:12px 18px;border-radius:999px;text-decoration:none;font-weight:600}
+.topico .nota{font-size:.82rem;color:var(--muted)}
+</style>
+<a class="wa-fixo" href="https://wa.me/5519997847824?text=Ol%C3%A1%2C%20Mar%C3%ADlia!%20Vim%20pelo%20site%20e%20quero%20agendar." target="_blank" rel="noopener" aria-label="Agendar pelo WhatsApp">
+<svg viewBox="0 0 32 32" fill="#fff" aria-hidden="true"><path d="M16 3C9 3 3.3 8.6 3.3 15.6c0 2.2.6 4.4 1.7 6.3L3.2 29l7.3-1.9c1.8 1 3.9 1.5 5.9 1.5 7 0 12.7-5.7 12.7-12.6S23 3 16 3zm0 23.2c-1.9 0-3.8-.5-5.4-1.5l-.4-.2-4.3 1.1 1.2-4.2-.3-.4c-1.1-1.7-1.6-3.6-1.6-5.6C5.2 9.8 10 5.1 16 5.1s10.8 4.7 10.8 10.5S21.9 26.2 16 26.2zm5.9-7.8c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1c-.3-.2-1.4-.5-2.6-1.6-1-.9-1.6-1.9-1.8-2.2s0-.5.1-.6l.5-.6c.2-.2.2-.3.3-.5s.1-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4s-1.2 1.1-1.2 2.8 1.2 3.2 1.4 3.4c.2.2 2.4 3.6 5.7 5 .8.3 1.4.5 1.9.7.8.3 1.5.2 2.1.1.6-.1 1.9-.8 2.2-1.5.3-.7.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg>
+<span>Agendar pelo WhatsApp</span></a>
+</body>
+</html>
