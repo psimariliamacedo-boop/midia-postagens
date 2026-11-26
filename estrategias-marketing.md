@@ -37,3 +37,4 @@ Obs.: contatos por WhatsApp vindos do perfil não aparecem nesses números (só 
 - 26/11: criada a skill escrita-marilia (voz dela + o que denuncia texto de IA + CFP). Postagens de dezembro reescritas (v3) seguindo a skill.
 - 26/11: rotina mensal do dia 05 criada (análise do Google Business + perguntas reais + postagens do mês). Termos do print da Marília incluídos em perguntas-google.md.
 - 26/11: plano dez→jan criado (plano-dezembro-janeiro.md): 4 fases (Dezembro pesa, Antes da pausa, Recesso, Agora sim) + análise dos 3 rascunhos de reels. Aguardando aprovação.
+- 26/11: decidido: reels normais saem no Instagram + Facebook; reels de teste só no Instagram.

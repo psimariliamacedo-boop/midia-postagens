@@ -134,3 +134,8 @@ Termos que levaram ao Perfil (período do app, provavelmente o mês corrente):
 - DIA 05: análise mensal das buscas + postagens do Google do mês (trig_01FmTa4KtTPvXAeogFFVE86V).
 - DIA 1: origem das pacientes do mês (trig_013T9tvvbePNtF6kbWEYBLLK).
 - Planilha de métricas: preencher a partir do relatório de segunda quando a Marília pedir.
+
+## Redes no Metricool (decidido 26/11/2026)
+- Reels NORMAIS (não teste): agendar no Metricool marcando Instagram + Facebook (página facebookData 752334907962229).
+- Reels de TESTE (Trial): só Instagram (o formato não vai pro Facebook).
+- Os 3 rascunhos (28/11, 03/12, 05/12 às 18h) ficam como estão até a Marília decidir.
