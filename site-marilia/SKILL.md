@@ -51,3 +51,11 @@ Fonte única sobre o site. Contato/CRP: skill `dados-profissionais-marilia`. An�
 
 ## Ideia futura
 - Página própria de Avaliação Neuropsicológica (para o grupo de anúncios de avaliação). Avaliar após o Dia 30/60 da campanha.
+
+## Google Search Console
+- **ATIVADO** para mariliamacedopsi.com.br (confirmado pela Marília em 26/11/2026). NÃO perguntar de novo.
+- Próximos passos: enviar sitemap.xml (quando o pacote de SEO for publicado) e usar "Inspeção de URL".
+- Para ler os dados daqui: conector `searchconsole` do Windsor.ai (teste até ~25/12/2026) ou prints da Marília.
+
+## Regra geral
+- Antes de perguntar algo à Marília, consultar as skills site-marilia, google-ads-marilia, dados-profissionais-marilia e carol-assistente-marilia e o arquivo estrategias-marketing.md. Todo fato novo confirmado por ela deve ser anotado na skill correspondente.

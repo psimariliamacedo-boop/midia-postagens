@@ -87,3 +87,9 @@ Remover só com ok da Marília.
 - Consultório atual: **Rua Santa Gertrudes, 1230 · Bela Vista IV · Cosmópolis/SP** (o site já mostra este). Antigo (NÃO usar): Rua Sete de Abril, 610 – Damiano.
 - Título do anúncio trocado de "Consultório no Bairro Damiano" para "Consultório no Bela Vista IV" (enviado para aprovação da Marília em 25/11).
 - Postagens do Google (Perfil da Empresa) via Metricool: nenhuma agendada até 25/11; proposta de 1 por semana em dezembro, aguardando ok.
+
+## Fatos confirmados (não perguntar de novo)
+- Google Search Console: ativado (26/11/2026).
+- Endereço: Rua Santa Gertrudes, 1230, Bela Vista IV (Perfil da Empresa já correto, 48 avaliações nota 5,0 em 26/11/2026).
+- Registro de estratégias e linha de base do Perfil: /home/user/midia-postagens/estrategias-marketing.md (ramo claude/google-ads-registro).
+- PENDENTE de confirmação: conflito com a skill da Carol (casal presencial R$ 240; atende a partir de 8 anos; sábado 8h–12h) × o que a Marília disse aqui (não atende casal; só adultos).
