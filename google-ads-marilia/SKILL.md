@@ -93,3 +93,19 @@ Remover só com ok da Marília.
 - Endereço: Rua Santa Gertrudes, 1230, Bela Vista IV (Perfil da Empresa já correto, 48 avaliações nota 5,0 em 26/11/2026).
 - Registro de estratégias e linha de base do Perfil: /home/user/midia-postagens/estrategias-marketing.md (ramo claude/google-ads-registro).
 - RESOLVIDO 26/11/2026: atende casais (presencial) e a partir de 8 anos; particular; manter "Neuropsicóloga" no site (decisão dela, risco CFP já avisado). Ajuste do Google Ads enviado para aprovação (remove negativas casal/infantil/crianca; +7 palavras; títulos "Terapia a partir de 8 anos", "Terapia de Casal Presencial", "Avaliação a partir de 8 anos", "Consultório no Bela Vista IV").
+
+## Perfil da Empresa — "Detalhamento das pesquisas" (print da Marília, 26/11/2026)
+Termos que levaram ao Perfil (período do app, provavelmente o mês corrente):
+- **marilia — 36** (busca pelo nome = marca forte; as avaliações e o boca a boca funcionam)
+- **psicólogo cosmopolis — 17**
+- < 15 cada: avaliação neuropsicológica · neuropsicologia · neuropsicólogo · neuropsicologa marilia em campinas · psicologa/psicóloga/psicólogo/psicologia (genéricos) · psicologa/psicóloga cosmópolis · psicóloga em cosmopolis · psicologo em cosmopolis · **psicologo unimed cosmopolis** · **terapia pela unimed** · **psicólogo infantil cosmopolis sp** · psicóloga perto de mim · psicólogo online · quais são os psicólogos · terapia
+- Irrelevantes (ignorar): clinica de estetica cosmopolis sp · clínica na rua · clínica pronto socorro particular cosmopolis · marília, sp (cidade) · psicologa renata gurgel cosmopolis (outra profissional — NUNCA usar nome de concorrente em anúncio/post).
+
+### O que isso orienta (estratégia)
+1. Nome "Marília" é a busca nº 1: manter nome igual em Perfil, site, Instagram e anúncios; não gastar Google Ads com a palavra "marilia" (já aparece de graça).
+2. **Unimed aparece 2 vezes** → postagem 04/12 (particular + recibo para reembolso + IR) e futura pergunta no FAQ do site; a Carol deve explicar reembolso.
+3. **Psicólogo infantil** → confirma a abertura para crianças a partir de 8 anos (palavras infantis já incluídas no Google Ads em 26/11).
+4. **Campinas** aparece ("neuropsicologa marilia em campinas"): hoje fora da área do anúncio por causa do orçamento; reavaliar no Dia 30/60.
+5. **"psicólogo online"**: candidato a palavra-chave/campanha online no futuro.
+6. **"perto de mim"**: depende do Maps → manter Perfil completo, fotos novas do consultório e postagens 2x/semana.
+7. Rotina: todo mês (1ª segunda) pedir/ler o "Detalhamento das pesquisas" e comparar com este registro. Fonte automática: Windsor google_my_business (search_keyword) enquanto o teste durar.
